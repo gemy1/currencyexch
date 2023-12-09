@@ -1,0 +1,10 @@
+.card {
+  background-color: rgb(54, 54, 54);
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+.inner {
+  display: flex;
+  justify-content: space-between;
+}
